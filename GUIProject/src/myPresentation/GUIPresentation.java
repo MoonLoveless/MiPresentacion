@@ -16,7 +16,6 @@ public class GUIPresentation extends JFrame {
         this.setVisible(true);
         this.setLocationRelativeTo(null);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-//        this.addKeyListener(listener);
         this.requestFocusInWindow();
     }
 
